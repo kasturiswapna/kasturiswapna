@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kasturiswapna
+- 👋 Hi, I’m Kasturi,Swapna
 - 👀 I’m interested in data visualization 
 - 🌱 I’m currently learning Python,SQL,Tabeleau and machine learning
 - 💞️ I’m looking to collaborate on anlayzing, transforming and visualizing the data
